@@ -21,10 +21,6 @@ We can't manually classification the blood vessels segment in the eye. We must u
 
 --------------------------------------------------
 
-## User Documentation and Manual
-
---------------------------------------------------
-
 ## Developed By
 
 | Name                  | Email                 | GitHub |
