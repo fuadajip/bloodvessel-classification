@@ -1,6 +1,6 @@
 # Blood Vessel Classification
 
-[![Logo Eyebloess](https://github.com/fuadajip/bloodvessel-classification/blob/master/img/LogoEyebloess.png)]
+![Logo Eyebloess](https://github.com/fuadajip/bloodvessel-classification/blob/master/img/LogoEyebloess.png)
 
 |LICENSE| Slide | Algorithm | Program | Version |
 |-------|-------|-----------|----------|-------- |
@@ -19,7 +19,7 @@ We can't manually classification the blood vessels segment in the eye. We must u
 --------------------------------------------------
 
 ## Project Structure
-[![Project Structure](https://github.com/fuadajip/bloodvessel-classification/blob/master/img/ProjectStructure.png)]
+![Project Structure](https://github.com/fuadajip/bloodvessel-classification/blob/master/img/ProjectStructure.png)
 --------------------------------------------------
 
 ## Developed By
