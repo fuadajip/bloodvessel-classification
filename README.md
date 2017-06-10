@@ -4,7 +4,7 @@
 
 |LICENSE| Slide | Algorithm | Program | Version |
 |-------|-------|-----------|----------|-------- |
-|[![License](https://img.shields.io/badge/license-apache2.0-orange.svg)](https://github.com/fuadajip/bloodvessel-classification/blob/master/LICENSE)| [![Slide](https://img.shields.io/badge/slide-passed-yellowgreen.svg)](#) | [![Algorithm](https://img.shields.io/badge/algorithm-0%25-lightgrey.svg)](#) | [![Program](https://img.shields.io/badge/in%20progress-0%25-lightgrey.svg)](#) | ![Version](https://img.shields.io/badge/version-1.0-blue.svg) |
+|[![License](https://img.shields.io/badge/license-apache2.0-orange.svg)](https://github.com/fuadajip/bloodvessel-classification/blob/master/LICENSE)| [![Slide](https://img.shields.io/badge/slide-passed-yellowgreen.svg)](#) | [![Algorithm](https://img.shields.io/badge/algorithm-100%25-brightgreen.svg)](#) | [![Program](https://img.shields.io/badge/program-100%25-brightgreen.svg)](#) | ![Version](https://img.shields.io/badge/version-1.0-blue.svg) |
 
 --------------------------------------------------
 
@@ -36,6 +36,6 @@ Under supervision of Dr.Rodiah
 
 ## Markkdown Version
 
-![Markdown](https://img.shields.io/badge/markdown-beta-orange.svg)
+![Markdown](https://img.shields.io/badge/markdown-1.0.0-yellowgreen.svg)
 
 
